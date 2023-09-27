@@ -1,4 +1,4 @@
-console["info"]("Activated script");
+console["info"]("SIMULATOR Activated script");
 Number["prototype"]["Crop"]= 
 function(x)
 {
