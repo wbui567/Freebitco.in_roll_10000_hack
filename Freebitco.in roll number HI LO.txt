@@ -1,0 +1,43 @@
+This is some datas I've found on a Google'search.
+I don't know how is generated the HMAC SHA512's hash.
+If I find, I'll update this file.
+
+server seed: 61ef47c794a6639390d83754565bef057594a20035c70e300ca273925745a
+client seed : 1o8rKGRtyi6ZWd7j
+Nonce: 1668
+string 1 :1668:61ef47c794a6639390d83754565bef057594a20035c70e300ca273925745a:1668
+String 2: 1668:18KGRtyi6ZWd7j:1668
+HMAC SHA 512 HASH:
+22321a5663dc964f511274adb851c518f62e0bb4892a5923337a849ba8901cfe3ad536f85740acbf45caabffd7fe31fc80d1670e9beOea13dfc4718c7a467
+First 8 character of Hash : 22321a5
+HEx to Decimal : 573708965
+Range in Hex: 0 to ffffffff
+Hex range in Decimal: 0 to 4294967295
+Original range in Decimal; 0 to 10000
+Conversion: 4294967295 / 10000 = 429496.7295
+Division: 573708965 / 429496.7295 = 1335.77027622
+Nearest whole number : 1336
+
+
+
+server seed: 507b2850c20832d5df70557d6c06dedob5a72a7528b161889501fbcab58c33f
+client seed : 1o8rKGRtyi6ZWd7j
+Nonce: 1668
+string 1:
+1668:507b2850c20832d5df70557d6c06dedob5a72a7528b161889501fbcab58c33f:1668
+String 2: 1668:108rKGRtyi6ZWd7j:1668
+HMAC SHA 512 HASH :
+18415a311924ddc17f02e2c0a334c9891680561927ad3f3cad5cce2a00be49c3664e05979e0cf651a9
+28506690e417b600173f85537a0e60f86a1126f2128
+First 8 character of Hash : 18415a31
+HEx to Decimal: 406936113
+Range in Hex: 0 to ffffffff
+Hex range in Decimal: 0 to 4294967295
+Original range in Decimal; 0 to 10000
+Conversion : 4294967295 / 10000 = 429496.7295
+Division: 406936113/429496.7295 = 947.471971379
+Nearest whole number : 947
+
+
+https://www.binaryhexconverter.com/hex-to-decimal-converter
+https://www.freeformatter.com/hmac-generator.html#ad-output
